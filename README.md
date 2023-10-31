@@ -9,10 +9,11 @@ Website to promote and allow purchase of soccer training sessions in Atlanta, GA
 ## Table of Contents
 
   <!-- - [Installation](#installation) -->
-  <!-- - [Usage](#usage) -->
-  <!-- - [Contribution](#contribution)
-  - [Tests](#tests)
-  - [License](#license) -->
+
+- [Website](#website)
+<!-- - [Contribution](#contribution)
+- [Tests](#tests)
+- [License](#license) -->
 
 - [Questions](#questions)
 
@@ -20,9 +21,10 @@ Website to promote and allow purchase of soccer training sessions in Atlanta, GA
 
   Provide the detail for installation. Are there any command lines for installing dependencies? -->
 
-  <!-- ## Usage
+## Website
 
-  Provide the detail instructions for use -->
+https://dynamicsoccer.github.io/Dynamic-Soccer-Website/
+
 <!--
   ## Contribution
 
