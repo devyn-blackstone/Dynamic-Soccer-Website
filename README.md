@@ -23,8 +23,6 @@ Website to promote and allow purchase of soccer training sessions in Atlanta, GA
 
 ## Website
 
-https://dynamicsoccer.github.io/Dynamic-Soccer-Website/
-
 <!--
   ## Contribution
 
@@ -48,4 +46,4 @@ For further clarifications or questions, I can be reached at:
 
 Email: devynblackmon@gmail.com
 
-Github: https://github.com/dynamicsoccer
+Github: https://github.com/devyn-blackstone
